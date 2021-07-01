@@ -23,6 +23,4 @@ Please reference the [Platform Component Specifics](../docs/Design/PlatformCompo
 [April- 2021](2021-04.md)<br/>
 [May- 2021](2021-05.md)<br/>
 [June- 2021](2021-06.md)<br/>
-[July- 2021](2021-07.md)<br/>
-[August- 2021](2021-08.md)<br/>
 

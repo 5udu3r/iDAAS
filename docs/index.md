@@ -10,6 +10,9 @@ permalink: /
 # Common Links
 Below are common links to help you navigate all the site content.
 
+We take any feedback seriously, please feel free to go to our <a href="https://github.com/RedHat-Healthcare/" target="_blank"> Red Hat Healthcare GitHub Org</a>
+and file issues or discussion items. All communications we receive influences our [Technical Roadmap](../Roadmap/Index.md).
+
 | General|Platform Design |
 | -------------|----------|
 |[General Background](../docs/General/Background.md)|[Architecture](../docs/Design/Architecture.md)|
