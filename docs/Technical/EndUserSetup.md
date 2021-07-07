@@ -38,21 +38,30 @@ Maven is a repository framework where vendors can place their libraries in a pub
 pull needed upstream files and even has some of their open-iDaaS already in the Maven repository ecosystem.
 <a href=" https://maven.apache.org/install.html" target=_blank>Maven Site and Installation Link</a>
 
-### Open Source Databases - MySQL 8
+### Open Source Databases - MariaDB Community 10.x / MySQL 8
 While we list this in required we have also put in the word optional. If you want to persist data from the auditing
 components we have developed than we have focused on implementing it with lon standing open source RDBMs technology.
 However, if you dont want to output the auditing data to an RDBMS then this is not needed (thus the optionality).
 Furthermore, you could implement another RDBMS like Postgres, SQL Server, etc. <br>
 <a href="https://dev.mysql.com/downloads/" target=_blank>MySQL Community Site</a>
+<a href="https://mariadb.com/downloads/" target=_blank>MariaDB Community Site</a>
 
-We always want to recommend that resources pick a code editor or IDE they are comfortable with. While this
-is a personal decision we wanted to provide a few common ones numerous resources have used when building, implementing,
+### API Testing Tool
+There are several of these and again it comes to personal preference. We are currently moving to supporting Postman and
+and Soap UI community over the next period of time will be replacing all Insomnia import files with Postman and SoapUI 
+import files. Both Postman and SoapUI have strong community editions to leverage.
+
+<a href="https://www.soapui.org/tools/soapui/" target=_blank>SOAP UI Community Site</a><br>
+<a href="https://www.postman.com/product/api-client/" target=_blank>Postman Site</a><br>
+
+### Code Editor (User Preference)
+We always want to recommend that resources pick a code editor or IDE they are comfortable with. You could use command line; however, 
+you dont need to. While this is a personal decision we wanted to provide a few common ones numerous resources have used when building, implementing,
 contributing to iDaaS. <br>
 <a href="https://www.jetbrains.com/idea/" target=_blank>IntelliJ IDEA Site</a><br>
 <a href="https://code.visualstudio.com/" target=_blank>Visual Studio Code Site</a><br>
 <a href="https://www.eclipse.org" target=_blank>Eclipse Site</a><br>
-<a href="https://developers.redhat.com/products/codeready-studio/download?extIdCarryOver=true&sc_cid=701f2000001OH7EAAW"
-target=_blank>Red Hat Developer studio Site</a><br/>
+<a href="https://developers.redhat.com/products/codeready-studio/download?extIdCarryOver=true&sc_cid=701f2000001OH7EAAW" target=_blank>Red Hat Developer Studio Site</a><br/>
 
 ## Containers - Docker for Local Usage
 In order to showcase the containers aspect of our capabilities,  and since this is running on a developer desktop we 

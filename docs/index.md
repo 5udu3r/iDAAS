@@ -24,7 +24,7 @@ and file issues or discussion items. All communications we receive influences ou
 | Technical |Use Cases |
 | -------------|----------|
 |[Technologies Leveraged](../docs/Technical/Technologies.md)|[Platform Component Specifics](../docs/UseCases/PlatformComponents-Specific.md)|
-|[End User Setup](../docs/Technical/EndUserSetup.md)||
+|[End User Setup](../docs/Technical/EndUserSetup.md)|[Implementation Guides](../docs/ImplementationGuides/index.md)|
 
 # Intelligent DaaS (Data as a Service)
 Welcome, Intelligent DaaS (Data as a Service) is a newer form of innovation. It is intended to be a <b> design pattern/reference architecture/accelerator </b> 
