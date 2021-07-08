@@ -9,7 +9,7 @@ FHIR Servers and has been tested with multiple FHIR servers.<br/>
 configuration of iDAAS with no advanced configuration or HTTPS endpoints being enabled. For example,
 if the iDAAS-Connect-FHIR
 is running on localhost and you are trying to work with a FHIR Condition resource then
-the URL would be http://localhost/8080/condition.
+the URL would be http://localhost/9081/condition.
 
 1. We use Insomnia Core, a well know API testing tool, to connect to the specific FHIR resource endpoint within the
    running instance of iDAAS-Connect-FHIR.
@@ -20,7 +20,7 @@ the URL would be http://localhost/8080/condition.
 # Design Pattern/Accelerator Configuration
 The section below tries to go through the attributes located in the <src>/<main>/<resources>/application.properties.
 
-## Properties
+## Properties via application.properties
 Supported properties include:
 
 ```
@@ -51,7 +51,7 @@ idaas.fhirVendor=ibm
 idaas.fhirVendor=hapi
 idaas.fhirVendor=microsoft
 
-## Command Line Arguments
+## Command Line Argument Passing
 Alternatively, if you have a running instance of Kafka, you can start a solution with:
 `./platform-scripts/start-solution-with-kafka-brokers.sh --idaas.kafkaBrokers=host1:port1,host2:port2`.
 The script will startup iDAAS server.
