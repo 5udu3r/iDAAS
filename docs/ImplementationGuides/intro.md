@@ -18,7 +18,7 @@ OS you choose to run this on.
 
 | Specific Implementation Guides|
 | -------------|
-|[FHIR](../FHIR.md)|
+|[FHIR](FHIR.md)|
 
 More of these will be coming as we work to ensure the content is consistent and accurate.
 

@@ -21,6 +21,8 @@ and file issues or discussion items. All communications we receive influences ou
 |[Fictious Org.](../docs/General/FictitiousOrg.md)|[Platform Components](../docs/Design/PlatformComponents.md)|
 |[Technical Leadership](../docs/General/TechnicalLeadership.md)|[Integration Standards Support](../docs/Design/IntegrationStandardsSupported.md)|
 
+More specific links around technologies used, setup and implementations:
+
 | Technical |Use Cases - Implementations |
 | -------------|----------|
 |[Technologies Leveraged](../docs/Technical/Technologies.md)|[Platform Component Specifics](../docs/UseCases/PlatformComponents-Specific.md)|
