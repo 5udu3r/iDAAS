@@ -18,7 +18,7 @@ the URL would be http://localhost/9081/condition.
 4. iDAAS-Connect-FHIR then processes the FHIR server response and audits it as well.
 
 # Design Pattern/Accelerator Configuration
-The section below tries to go through the attributes located in the <src>/<main>/<resources>/application.properties.
+The section below tries to go through the attributes located in the ```<src>/<main>/<resources>/application.properties file ``` .
 
 ## Properties via application.properties
 Supported properties include:
