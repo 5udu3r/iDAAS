@@ -9,7 +9,7 @@ to continue focusing on all the ways we communicate with our partners.
 
 ## iDaaS Design Patterns/Reference Architecture(s)
 
-Please reference the [Platform Component Specifics](../docs/Design/PlatformComponents.md) for details on each named implementation if needed. 
+Please reference the [Platform Component Specifics](../Design/PlatformComponents.md) for details on each named implementation if needed. 
 
 ## 2020
 [October - 2020](2020-10.md)<br/>
