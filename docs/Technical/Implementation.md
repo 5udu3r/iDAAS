@@ -11,7 +11,7 @@ powered with iDaaS.
 |---|---|
 |Blue Prism|![BluePrism-Logo](../../images/vendors/blueprism.png)|   
 |IBM Global Business Services|![IBMGBS-Logo](../../images/vendors/ibm_gbs.png)|   
-|Mobia|![Mobia-Logo](../../images/vendors/MOBIA.png)|  
+|Mobia|![Mobia-Logo](../../images/vendors/mobia.png)|  
 |Parkar Consulting|![Parkar-Logo](../../images/vendors/parkarconsulting.png)|
 |Perficient |![Perficient-Logo](../../images/vendors/perficient.png)|
 |Prolifics|![Prolifics-Logo](../../images/vendors/prolifics.png)|   
